@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wyb100
 - 👀 I’m interested in web|movie|game|run
 - 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m currently working in ByteDacne
 - 📫 How to reach me ...
 
 <!---
